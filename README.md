@@ -28,24 +28,28 @@ whether they should be used to predict credit risk.
   - Accuracy score: 65.1%
   - Precision score: 99%
   - Recall: 66%  
+  
   ![SMOTE_Class_acc_report](https://user-images.githubusercontent.com/99093289/173264611-d413e775-f12d-420d-a269-cd232573bc32.PNG)
 
 ### Undersampling- Cluster Centroids
   - Accuracy score: 59%
   - Precision score: 99%
   - Recall: 57% 
+  
 ![undersam_acc_class_report](https://user-images.githubusercontent.com/99093289/173264620-97fae7c9-1cf2-414a-b07e-e705ef502f94.PNG)
 
 ### Combination Over/Under - SMOOTEENN
   - Accuracy score: 63.8%
   - Precision score: 99%
   - Recall: 57% 
+  
 ![combo_over_under_report](https://user-images.githubusercontent.com/99093289/173264637-6f2c63e7-0ea6-428b-a336-3abcd398ca4c.PNG)
 
 ### Balanced Random Forest Classifier
   - Accuracy score: 80.3%
   - Precision score: 99%
   - Recall: 86% 
+  
 ![BRFC_bal_acc](https://user-images.githubusercontent.com/99093289/173264663-653245de-a8eb-42ab-9098-13ace3f7f592.PNG)
 ![BRFC_Class_Report](https://user-images.githubusercontent.com/99093289/173264668-ba270c5f-6eee-4667-a88c-356bbf9b5edb.PNG)
 
@@ -53,6 +57,7 @@ whether they should be used to predict credit risk.
   - Accuracy score: 93.1%
   - Precision score: 99%
   - Recall: 94% 
+  
 ![eec_bal_acc](https://user-images.githubusercontent.com/99093289/173264654-e363e233-b010-4a0b-ac98-1cb06dc86ff2.PNG)
 ![eec_Class_Report](https://user-images.githubusercontent.com/99093289/173264656-99f7d726-3b33-4fbf-9db3-635f54284f43.PNG)
 
